@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3334674 */
-  src: url('//at.alicdn.com/t/font_3334674_enoklg3xwx.woff2?t=1651308267657') format('woff2'),
-       url('//at.alicdn.com/t/font_3334674_enoklg3xwx.woff?t=1651308267657') format('woff'),
-       url('//at.alicdn.com/t/font_3334674_enoklg3xwx.ttf?t=1651308267657') format('truetype');
+  src: url('//at.alicdn.com/t/font_3334674_hf1z761v91.woff2?t=1651408201411') format('woff2'),
+       url('//at.alicdn.com/t/font_3334674_hf1z761v91.woff?t=1651408201411') format('woff'),
+       url('//at.alicdn.com/t/font_3334674_hf1z761v91.ttf?t=1651408201411') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,42 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zanting:before {
+  content: "\e62a";
+}
+
+.icon-xiayigexiayishou:before {
+  content: "\e7a5";
+}
+
+.icon-shangyishou:before {
+  content: "\e603";
+}
+
+.icon-iconsMusicyemianbofangmoshiPlayList:before {
+  content: "\e677";
+}
+
+.icon-iconsMusicyemianbofangmoshiRepeat:before {
+  content: "\e678";
+}
+
+.icon-iconsMusicyemianbofangmoshiShuffle:before {
+  content: "\e679";
+}
+
+.icon-kuaijin:before {
+  content: "\e602";
+}
+
+.icon-bofang1:before {
+  content: "\e87c";
+}
+
+.icon-Androidgengduo:before {
+  content: "\eb00";
 }
 
 .icon-fenxiang:before {
